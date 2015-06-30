@@ -1,5 +1,5 @@
 # Chatsapp
-Mensageiro P2P criado em C como projeto da disciplina SSC-0641 - Redes de Computadores, ministrada pelo Prof. Dr. Julio Cezar Estrella com ajuda do estagiário PAE Carlos Henrique Gomes Ferreira na Universidade de São Paulo, campus São Carlos.
+Mensageiro P2P criado em C como projeto da disciplina SSC-0641 - Redes de Computadores, ministrada pelo Prof. Dr. Julio Cezar Estrella auxiliado pelo estagiário PAE Carlos Henrique Gomes Ferreira, na Universidade de São Paulo, campus São Carlos.
 
 # Requerimentos
 - Biblioteca NCURSES (http://www.gnu.org/software/ncurses/);
